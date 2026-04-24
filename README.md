@@ -25,7 +25,7 @@ This project is ideal for developers learning React as well as users who want a 
 ## Author
 Name: Your A/C Name  
 Email: your@email.com  
-Website: ezcardinfo  
+Website: [ezcardinfo](https://www.ezcardinfo.com.co)
 
 **Bio:**  
 A highly skilled full-stack developer with extensive experience in modern web technologies. Known for expertise in React, JavaScript, and scalable application architecture. Passionate about building user-friendly applications and helping the developer community through open-source contributions. Recognized for problem-solving skills, clean coding practices, and mentoring junior developers.
